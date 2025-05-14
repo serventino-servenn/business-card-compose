@@ -31,7 +31,7 @@ A simple Android app built using [Jetpack Compose](https://developer.android.com
 
 | Business Card UI |
 |------------------|
-<img src="/Users/serventinomuyndong/AndroidStudioProjects/BusinesscardApp/businesscard.png" alt="App Screenshot" width="300" height="500"/>
+<img src="![businesscard](https://github.com/user-attachments/assets/021d5912-60d1-4683-bbce-766f2c2b8703)" alt="App Screenshot" width="300" height="500"/>
 
 
 
