@@ -27,7 +27,7 @@ A simple Android app built using [Jetpack Compose](https://developer.android.com
 - [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - [Android Studio](https://developer.android.com/studio)
 
-## Screenshots
+## Screenshots 
 
 | Business Card UI |
 |------------------|
