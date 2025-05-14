@@ -11,7 +11,7 @@ A simple Android app built using [Jetpack Compose](https://developer.android.com
 - Clean, modern layout using Material Design components
 
 ## Concepts Learned
-Using Column, Row, Surface, and Modifier
+* Using Column, Row, Surface, and Modifier
 
 * Creating reusable composables
 
@@ -31,7 +31,7 @@ Using Column, Row, Surface, and Modifier
 
 | Business Card UI |
 |------------------|
-| ![screenshot](screenshots/business_card.png) |
+<img src="/Users/serventinomuyndong/AndroidStudioProjects/BusinesscardApp/businesscard.png" alt="App Screenshot" width="300" height="500"/>
 
 
 
@@ -39,7 +39,7 @@ Using Column, Row, Surface, and Modifier
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/business-card-app.git
+   https://github.com/serventino-servenn/business-card-compose.git
 
 2. Open the project in Android Studio
 
