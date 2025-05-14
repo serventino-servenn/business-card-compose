@@ -10,6 +10,9 @@ A simple Android app built using [Jetpack Compose](https://developer.android.com
 - Responsive UI built entirely with Jetpack Compose
 - Clean, modern layout using Material Design components
 
+## Screenshots 
+<img src="https://github.com/user-attachments/assets/021d5912-60d1-4683-bbce-766f2c2b8703"  width="300"/>
+
 ## Concepts Learned
 * Using Column, Row, Surface, and Modifier
 
@@ -27,8 +30,7 @@ A simple Android app built using [Jetpack Compose](https://developer.android.com
 - [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - [Android Studio](https://developer.android.com/studio)
 
-## Screenshots 
-<img src="https://github.com/user-attachments/assets/021d5912-60d1-4683-bbce-766f2c2b8703"  width="300"/>
+
 
 
 
