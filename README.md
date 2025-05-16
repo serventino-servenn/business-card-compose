@@ -7,8 +7,6 @@ A simple Android app built using [Jetpack Compose](https://developer.android.com
 
 - Displays profile picture, name, and job title
 - Shows contact details (phone, email, social handle)
-- Responsive UI built entirely with Jetpack Compose
-- Clean, modern layout using Material Design components
 
 ## Screenshot
 <img src="https://github.com/user-attachments/assets/021d5912-60d1-4683-bbce-766f2c2b8703"  width="300"/>
