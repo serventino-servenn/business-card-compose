@@ -10,7 +10,7 @@ A simple Android app built using [Jetpack Compose](https://developer.android.com
 - Responsive UI built entirely with Jetpack Compose
 - Clean, modern layout using Material Design components
 
-## Screenshots 
+## Screenshot
 <img src="https://github.com/user-attachments/assets/021d5912-60d1-4683-bbce-766f2c2b8703"  width="300"/>
 
 ## Concepts Learned
