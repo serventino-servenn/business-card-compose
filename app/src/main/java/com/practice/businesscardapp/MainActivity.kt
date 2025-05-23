@@ -171,7 +171,7 @@ fun ContactInfo(
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun BusinessCardPreview() {
     BusinessCardAppTheme {
         BusinessCardApp()
     }
