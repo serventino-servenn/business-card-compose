@@ -20,7 +20,7 @@ A simple Android app built using [Jetpack Compose](https://developer.android.com
 
 * Using Image, Text, Icon, and Spacer in Compose
 
-* Combining Jetpack Compose with Material Design components
+
 
 ## Built With
 
